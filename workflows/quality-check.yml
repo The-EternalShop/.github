@@ -1,0 +1,39 @@
+# .github/workflows/remove_eternalxlks.yml
+name: Quality Check
+
+on:
+  push:
+    branches:
+      - main  # Trigger on pushes to the main branch
+  pull_request:
+    branches:
+      - main  # Trigger on pull requests to the main branch
+
+jobs:
+  scan-and-clean:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Find Swear Words
+        run: |
+          # Check for occurrences of swear words
+          if grep -rl "eternalxlks" README.md; then
+            echo "Found occurrences of swear words. Removing..."
+            # Remove occurrences of swear words
+            sed -i 's/eternalxlks//g' README.md
+          else
+            echo "No occurrences of swear words found."
+          fi
+
+      - name: Remove Swear Words (if any)
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -am "Remove swear words"
+            git push
+          else
+            echo "No changes to commit."
