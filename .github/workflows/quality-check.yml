@@ -20,10 +20,10 @@ jobs:
       - name: Find Swear Words
         run: |
           # Check for occurrences of swear words
-          if grep -rl "eternalxlks" README.md; then
+          if grep -rl "eternalxlks" profile/README.md; then
             echo "Found occurrences of swear words. Removing..."
             # Remove occurrences of swear words
-            sed -i 's/eternalxlks//g' README.md
+            sed -i 's/eternalxlks//g' profile/README.md
           else
             echo "No occurrences of swear words found."
           fi
