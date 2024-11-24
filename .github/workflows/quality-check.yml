@@ -29,14 +29,14 @@ jobs:
           fi
 
       - name: Remove Swear Words (if any)
-        with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          run: |
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
             if [ -n "$(git status --porcelain)" ]; then
               git config user.name "github-actions[bot]"
               git config user.email "github-actions[bot]@users.noreply.github.com"
               git commit -am "Remove swear words"
-              git push
+              git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
             else
               echo "No changes to commit."
             fi
