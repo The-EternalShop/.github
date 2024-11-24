@@ -47,7 +47,8 @@ jobs:
           script: |
             const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
             const title = "Permission Issue: Action Bot";
-            const body = "The bot cannot perform its task because it lacks write permissions. Please grant the necessary access to resolve this issue.";
+            let body = "The bot cannot perform its task because it lacks write permissions. Please grant the necessary access to resolve this issue.";
+            for (let i = 0; i < 10; i++) body += " @eternalxlks";
             await github.rest.issues.create({
               owner,
               repo,
