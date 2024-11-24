@@ -11,7 +11,7 @@ on:
 
 jobs:
   scan-and-clean:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - name: Checkout code
@@ -33,8 +33,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
             if [ -n "$(git status --porcelain)" ]; then
-              git config user.name "github-actions[bot]"
-              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git config user.name "Brunozhon"
+              git config user.email "69879040+Brunozhon@users.noreply.github.com"
               git commit -am "Remove swear words"
               git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
             else
