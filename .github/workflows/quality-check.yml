@@ -23,7 +23,7 @@ jobs:
           if grep -rl "eternalxlks" profile/README.md; then
             echo "Found occurrences of swear words. Removing..."
             # Remove occurrences of swear words
-            perl -i -pe 's{eternalxlks}{.}g' data.txt
+            perl -i -pe 's{eternalxlks}{.}g' profile/README.md
           else
             echo "No occurrences of swear words found."
           fi
