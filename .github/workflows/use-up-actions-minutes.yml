@@ -1,3 +1,5 @@
+name: Use Up Actions Minutes
+
 on:
   schedule:
   - cron: '0/5 * * * *'
