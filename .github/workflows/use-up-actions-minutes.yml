@@ -1,0 +1,13 @@
+on:
+  schedule:
+  - cron: '* * * * *'
+
+jobs:
+  do-stuff:
+    runs-on: macos-latest
+    steps:
+      - name: Use Up Actions Minutes
+        run: |
+          echo "Waiting..."
+          sleep 10
+          echo "Success!"
