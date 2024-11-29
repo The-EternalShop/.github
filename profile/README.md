@@ -2,5 +2,5 @@
 
 # The Eternal Shop
 
-All about a shop! Visit the shop([https://eternalxlks.github.io/EternalShop/](https://the-eternalshop.github.io/)).
-(c) 2024 by eternalxlks and I don't care if you do anything with it just don't say it is your own.
+All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//Eternal-Shop/)).
+(c) 2024 by eternalxlks 
