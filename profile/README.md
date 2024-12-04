@@ -6,6 +6,9 @@ All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//Etern
 (c) 2024 by eternalxlks 
 
 # Creators/Contributers
-([@eternalxlks](https://github.com/eternalxlks)
-([@brunozhon](https://github.com/brunozhon)
+[@eternalxlks](https://github.com/eternalxlks)
+[@brunozhon](https://github.com/brunozhon)
+
+# Copyright
+(c) 2022 by eternalxlks and brunozhon. Under no part of this code may be distributed as one's own, and it is reserved to eternalxlks and brunozhon
 
