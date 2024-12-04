@@ -4,3 +4,8 @@
 
 All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//EternalShop/)).
 (c) 2024 by eternalxlks 
+
+# Creators/Contributers
+([@eternalxlks](https://github.com/eternalxlks)
+([@brunozhon](https://github.com/brunozhon)
+
