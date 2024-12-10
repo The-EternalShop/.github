@@ -4,7 +4,7 @@ This is us:
 
 We are just a small comunity trying to make the world a better place by selling things that are much cheaper than their original price.
 Join us now, and you will be comemorated as a rubber duck!
-###### Stuff:
+### Stuff:
 # [Be A Pro At SDL2 In Less Than 1 Hour Or Your Money Back 100% Guranteed #sdl #sdl2 #c-lang #cpp #c-plus-plus](https://github.com/The-EternalShop/learn-sdl2-in-1-hour-easy)
 
 # The EternalShop
