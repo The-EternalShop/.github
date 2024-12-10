@@ -1,8 +1,9 @@
 # Hey! 
 This is us:
-<img src="blob:chrome-untrusted://media-app/55431468-0676-427a-b1da-d0cc5c468cee" alt="chat.webp"/>![image](https://github.com/user-attachments/assets/70705067-b894-4738-9ae6-011a2f7cfda5)
-
-
+<img src="blob:chrome-untrusted://media-app/55431468-0676-427a-b1da-d0cc5c468cee" alt="chat.webp"/>
+We are just a small comunity trying to make the world a better place by selling things that are much cheaper than their original price.
+Join us now, and you will be comemorated as a rubber duck!
+###### Stuff:
 # [Be A Pro At SDL2 In Less Than 1 Hour Or Your Money Back 100% Guranteed #sdl #sdl2 #c-lang #cpp #c-plus-plus](https://github.com/The-EternalShop/learn-sdl2-in-1-hour-easy)
 
 # The EternalShop
