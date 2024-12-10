@@ -1,3 +1,6 @@
+# Hey! 
+This is us:
+
 # [Be A Pro At SDL2 In Less Than 1 Hour Or Your Money Back 100% Guranteed #sdl #sdl2 #c-lang #cpp #c-plus-plus](https://github.com/The-EternalShop/learn-sdl2-in-1-hour-easy)
 
 # The EternalShop
