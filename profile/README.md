@@ -1,6 +1,7 @@
 # Hey! 
 This is us:
-<img src="blob:chrome-untrusted://media-app/55431468-0676-427a-b1da-d0cc5c468cee" alt="chat.webp"/>
+<img src="blob:chrome-untrusted://media-app/55431468-0676-427a-b1da-d0cc5c468cee" alt="chat.webp"/>![image](https://github.com/user-attachments/assets/ed3b9fc9-bbd7-4693-9c07-584602bcf9e4)
+
 We are just a small comunity trying to make the world a better place by selling things that are much cheaper than their original price.
 Join us now, and you will be comemorated as a rubber duck!
 ###### Stuff:
