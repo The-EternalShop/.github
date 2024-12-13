@@ -18,7 +18,7 @@ All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//Etern
 
 # Our Channel
 Sub to it: 
-[Minecraft Vids](https://www.youtube.com/@a_duck_plays_minecraft/videos
+[Minecraft Vids](https://www.youtube.com/@a_duck_plays_minecraft/videos)
 
 
 # Copyright
