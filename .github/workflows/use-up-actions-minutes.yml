@@ -11,5 +11,5 @@ jobs:
       - name: Use Up Actions Minutes
         run: |
           echo "Waiting..."
-          sleep 10
+          sleep 60
           echo "Success!"
