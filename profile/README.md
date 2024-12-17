@@ -12,6 +12,7 @@ All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)).
 
 # Our Community
 🍿 We are a community where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. This is the herat of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 🩷
+## We strongly recommend that you do not, I repeat NOT make any useless changes to anything.
 
 # Creators/Contributers
 🥇[@.](https://github.com/.)
