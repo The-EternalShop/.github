@@ -15,7 +15,7 @@ All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)).
 ## I strongly recommend that you do not, I repeat NOT make any useless changes to anything.
 
 # Creators/Contributers
-🥇[@eternalxlks](https://github.com/.)
+🥇[@.](https://github.com/.)
 🥈[@brunozhon](https://github.com/brunozhon)
 🥉[@855840927564](https://github.com/855840927564)
 
