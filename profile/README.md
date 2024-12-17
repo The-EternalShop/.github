@@ -1,5 +1,5 @@
 # Hey! 
-This is us:
+This is us *(why are there **FOUR** ducks, Aadhav?)*:
 ![image](https://github.com/user-attachments/assets/ed3b9fc9-bbd7-4693-9c07-584602bcf9e4)
 
 We are just a small comunity *(which is spelled wrong, Aadhav)* trying to make the world a better place by selling things that are much cheaper than their original price.
