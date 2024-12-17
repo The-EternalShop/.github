@@ -16,7 +16,7 @@ All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//Etern
 # Creators/Contributers
 🥇[@eternalxlks](https://github.com/eternalxlks)
 🥈[@brunozhon](https://github.com/brunozhon)
-🥉[855840927564](https://github.com/855840927564)
+🥉[@855840927564](https://github.com/855840927564)
 
 # Our Channel
 Sub to it, we honestly don't care.
