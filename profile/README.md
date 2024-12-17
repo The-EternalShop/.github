@@ -1,9 +1,7 @@
 # Hey! 
-This is us *(why are there **FOUR** ducks, Aadhav?)*:
+This is us:
 ![image](https://github.com/user-attachments/assets/ed3b9fc9-bbd7-4693-9c07-584602bcf9e4)
-
-We are just a small community *(which is spelled wrong, Aadhav)* trying to make the world a better place by selling things that are much cheaper than their original price.
-Join us now, and you will be commemorated *(which is spelled wrong, Aadhav)* as a rubber duck!
+Join us and you will be a rubber duck! (Not Actually.)
 ### Stuff:
 # [Be A Pro At SDL2 In Less Than 1 Hour Or Your Money Back 100% Guranteed #sdl #sdl2 #c-lang #cpp #c-plus-plus](https://github.com/The-EternalShop/learn-sdl2-in-1-hour-easy)
 
