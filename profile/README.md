@@ -24,5 +24,5 @@ Sub to it, we honestly don't care.
 
 
 # Copyright
-(c) 2022 by eternalxlks and brunozhon. You may copy, redistribute, or modify our code without our permission.
+(c) 2022 by eternalxlks and brunozhon. You may visit the full license:
 [Full License](https://github.com/The-EternalShop/LICENSE/blob/main/README.md)
