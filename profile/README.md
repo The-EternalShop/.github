@@ -10,9 +10,13 @@ Join us and you will be a rubber duck! (Not Actually.)
 All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//EternalShop/)).
 (c) 2024 by eternalxlks 
 
+# Our Community
+🍿 We are a community where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. This is the herat of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us!🩷
+
 # Creators/Contributers
-[@eternalxlks](https://github.com/eternalxlks)
-[@brunozhon](https://github.com/brunozhon)
+🥇[@eternalxlks](https://github.com/eternalxlks)
+🥈[@brunozhon](https://github.com/brunozhon)
+🥉[855840927564](https://github.com/855840927564)
 
 # Our Channel
 Sub to it, we honestly don't care.
