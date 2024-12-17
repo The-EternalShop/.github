@@ -7,14 +7,14 @@ Join us and you will be a rubber duck!😄
 
 # The EternalShop
 
-All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//EternalShop/)).
-(c) 2024 by eternalxlks 
+All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)).
+(c) 2024 by . 
 
 # Our Community
 🍿 We are a community where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. This is the herat of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 🩷
 
 # Creators/Contributers
-🥇[@eternalxlks](https://github.com/eternalxlks)
+🥇[@.](https://github.com/.)
 🥈[@brunozhon](https://github.com/brunozhon)
 🥉[@855840927564](https://github.com/855840927564)
 
@@ -24,5 +24,5 @@ Sub to it, we honestly don't care.
 
 
 # Copyright
-(c) 2022 by eternalxlks and brunozhon. You may visit the full license:
+(c) 2022 by . and brunozhon. You may visit the full license:
 [Full License](https://github.com/The-EternalShop/LICENSE/blob/main/README.md)
