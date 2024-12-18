@@ -3,11 +3,11 @@ This is us:
 ![image](https://github.com/user-attachments/assets/ed3b9fc9-bbd7-4693-9c07-584602bcf9e4)
 Join us and you will be a rubber duck!😄
 ### Stuff and Things:
-# [Be A Pro At SDL2 In Less Than 1 Hour Or Your Money Back 100% Guranteed #sdl #sdl2 #c-lang #cpp #c-plus-plus](https://github.com/The-EternalShop/learn-sdl2-in-1-hour-easy)
+# [Be A Pro At SDL2 In Less Than 1 Hour Or Your Money Back 100% 💸 Guranteed #sdl #sdl2 #c-lang #cpp #c-plus-plus](https://github.com/The-EternalShop/learn-sdl2-in-1-hour-easy)
 
 # The EternalShop
 
-All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)
+All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io//EternalShop/)
 You are free to copy all of our stuff without crediting us! 2024 by . and Brunozhon
 
 # Our Community
@@ -15,13 +15,13 @@ You are free to copy all of our stuff without crediting us! 2024 by . and Brunoz
 ## I strongly recommend that you do not, I repeat NOT make any useful changes to anything.
 
 # Creators/Contributers
-🥇[@.](https://github.com/.)
+🥇[@.](https://github.com/eternalxlks)
 🥈[@Brunozhon](https://github.com/Brunozhon)
-🥉[@.](https://github.com/.)
+🥉[@.](https://github.com/855840927564)
 
 # Our Channel
 Sub to it, we honestly don't care.
-[Minecraft Vids](https://www.youtube.com/@./videos)
+[Minecraft Vids](https://www.youtube.com/@a_duck_plays_minecraft/videos)
 
 
 # Copyright
