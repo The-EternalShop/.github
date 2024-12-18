@@ -34,6 +34,12 @@ jobs:
           if grep -rl "useless" profile/README.md; then
             perl -i -pe 's{useless}{useful}g' profile/README.md
           fi
+          if grep -rl "a_duck_plays_minecraft" profile/README.md; then
+            perl -i -pe 's{a_duck_plays_minecraft}{.}g' profile/README.md
+          fi
+          if grep -rl "A Duck Plays Minecraft" profile/README.md; then
+            perl -i -pe 's{A Duck Plays Minecraft}{.}g' profile/README.md
+          fi
 
       - name: Remove Swear Words (if any)
         env:
