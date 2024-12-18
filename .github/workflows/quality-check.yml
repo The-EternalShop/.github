@@ -41,10 +41,10 @@ jobs:
             perl -i -pe 's{A Duck Plays Minecraft}{.}g' profile/README.md
           fi
           if grep -rl "(c)" profile/README.md; then
-            perl -i -pe 's{\(c\)}{We do **NOT** care about copyright; you are free to copy all of our stuff without crediting us!}g' profile/README.md
+            perl -i -pe 's{\(c\)}{You are free to copy all of our stuff without crediting us!}g' profile/README.md
           fi
           if grep -rl "copyright" profile/README.md; then
-            perl -i -pe 's{copyright}{We do **NOT** care about copyright; you are free to copy all of our stuff without crediting us!}g' profile/README.md
+            perl -i -pe 's{copyright}{You are free to copy all of our stuff without crediting us!}g' profile/README.md
           fi
           echo "Done!"
 
