@@ -11,7 +11,7 @@ All about a shop! Visit [The Shop](https://eternalxlks.github.io/EternalShop/)
 You are free to copy all of our stuff without crediting us! 👍
 
 # Our Community
-We are a community 🤝 where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. 🗒️ This is the herat of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 🩷
+We are a community 🤝 where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. 🗒️ This is the 🩷 of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 
 ## I strongly recommend that you do not, I repeat NOT make any useful changes to anything. 
 
 # Creators/Contributers
