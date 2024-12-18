@@ -7,7 +7,7 @@ Join us and you will be a rubber duck!😄
 
 # The EternalShop
 
-All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)
+All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io/EternalShop/)
 You are free to copy all of our stuff without crediting us! 2024 by . and Brunozhon
 
 # Our Community
@@ -15,13 +15,13 @@ You are free to copy all of our stuff without crediting us! 2024 by . and Brunoz
 ## I strongly recommend that you do not, I repeat NOT make any useful changes to anything.
 
 # Creators/Contributers
-🥇[@.](https://github.com/.)
+🥇[@.](https://github.com/eternalxlks)
 🥈[@Brunozhon](https://github.com/Brunozhon)
-🥉[@.](https://github.com/.)
+🥉[@.](https://github.com/855840927564)
 
 # Our Channel
 Sub to it, we honestly don't care.
-[Minecraft Vids](https://www.youtube.com/@./videos)
+[Minecraft Vids](https://www.youtube.com/@a_duck_plays_minecraft/videos)
 
 
 # Copyright
