@@ -8,7 +8,7 @@ Join us and you will be a rubber duck!😄
 # The EternalShop
 
 All about a shop! Visit the shop([The Shop](https://eternalxlks.github.io/EternalShop/)
-You are free to copy all of our stuff without crediting us! 2024 by . and Brunozhon
+You are free to copy all of our stuff without crediting us! 2024 by eternalxlks and Brunozhon
 
 # Our Community
 🍿 We are a community where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. This is the herat of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 🩷
@@ -25,5 +25,5 @@ Sub to it, we honestly don't care.
 
 
 # Copyright
-You are free to copy all of our stuff without crediting us! 2022 by . and Brunozhon. You may visit the full license:
+You are free to copy all of our stuff without crediting us! 2022 by eternalxlks and Brunozhon. You may visit the full license:
 [Full License](https://github.com/The-EternalShop/LICENSE/blob/main/README.md)
