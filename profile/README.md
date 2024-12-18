@@ -21,7 +21,7 @@ All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)).
 
 # Our Channel
 Sub to it, we honestly don't care.
-[Minecraft Vids](https://www.youtube.com/@a_duck_plays_minecraft/videos)
+[Minecraft Vids](https://www.youtube.com/@./videos)
 
 
 # Copyright
