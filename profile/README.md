@@ -12,12 +12,12 @@ All about a shop! Visit the shop([The Shop](https://..github.io//EternalShop/)).
 
 # Our Community
 🍿 We are a community where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. This is the herat of out place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 🩷
-## I strongly recommend that you do not, I repeat NOT make any useless changes to anything.
+## I strongly recommend that you do not, I repeat NOT make any useful changes to anything.
 
 # Creators/Contributers
 🥇[@.](https://github.com/.)
-🥈[@brunozhon](https://github.com/brunozhon)
-🥉[@855840927564](https://github.com/855840927564)
+🥈[@Brunozhon](https://github.com/Brunozhon)
+🥉[@.](https://github.com/.)
 
 # Our Channel
 Sub to it, we honestly don't care.
@@ -25,5 +25,5 @@ Sub to it, we honestly don't care.
 
 
 # Copyright
-(c) 2022 by . and brunozhon. You may visit the full license:
+(c) 2022 by . and Brunozhon. You may visit the full license:
 [Full License](https://github.com/The-EternalShop/LICENSE/blob/main/README.md)
