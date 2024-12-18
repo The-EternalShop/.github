@@ -19,13 +19,20 @@ jobs:
 
       - name: Find Swear Words
         run: |
-          # Check for occurrences of swear words
           if grep -rl "eternalxlks" profile/README.md; then
-            echo "Found occurrences of swear words. Removing..."
-            # Remove occurrences of swear words
             perl -i -pe 's{eternalxlks}{.}g' profile/README.md
-          else
-            echo "No occurrences of swear words found."
+          fi
+          if grep -rl "Jotaro Kujo" profile/README.md; then
+            perl -i -pe 's{Jotaro Kujo}{.}g' profile/README.md
+          fi
+          if grep -rl "855840927564" profile/README.md; then
+            perl -i -pe 's{855840927564}{.}g' profile/README.md
+          fi
+          if grep -rl "brunozhon" profile/README.md; then
+            perl -i -pe 's{brunozhon}{Brunozhon}g' profile/README.md
+          fi
+          if grep -rl "useless" profile/README.md; then
+            perl -i -pe 's{useless}{useful}g' profile/README.md
           fi
 
       - name: Remove Swear Words (if any)
