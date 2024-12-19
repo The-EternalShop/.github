@@ -14,7 +14,7 @@ You are free to copy all of our stuff without crediting us! 👍
 We are a community 🤝 where we support values and norms, regardless of gender, ability, ethnicity, socioeconomic status, and religion. 🗒️ This is the 🩷 of this place, and we encourage you to join, if you get our drift. So enjoy and show your love by joining us! 
 ## I strongly recommend that you do not, I repeat NOT make any useless changes to anything. 
 
-# Creators/Contributers
+# Creators/Contributors
 🥇[@eternalxlks](https://github.com/eternalxlks)
 🥈[@Brunozhon](https://github.com/Brunozhon)
 🥉[@855840927564](https://github.com/855840927564)
